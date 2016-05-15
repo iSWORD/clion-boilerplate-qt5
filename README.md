@@ -1,0 +1,1 @@
+# clion-boilerplate-qt5
